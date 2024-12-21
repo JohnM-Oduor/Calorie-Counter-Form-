@@ -19,5 +19,7 @@ The Calorie Counter Form is a web app that tracks daily calorie intake and expen
 ## Technologies Used
 
 **1.HTML:** Structure of the application.
+
 **2.CSS:** Styling and responsive design.
+
 **3.JavaScript:** Dynamic behavior and calorie calculations.
